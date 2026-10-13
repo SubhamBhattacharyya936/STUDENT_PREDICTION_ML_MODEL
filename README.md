@@ -575,4 +575,4 @@ Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub details.
 
 This project is open-source and free to use for learning purposes.
 
-You can add an MIT License if you want to publish it publicly.
+
